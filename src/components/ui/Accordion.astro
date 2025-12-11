@@ -1,0 +1,43 @@
+---
+import AccordionItem from "./AccordionItem.astro";
+
+const content = [
+{
+  index: 1,
+  title: "Bilan personnalisé et découverte de ton projet",
+  description: "Lors de notre premier échange, nous prenons le temps de comprendre ton parcours, tes objectifs et tes aspirations en trail. Ensemble, nous définissons un projet clair et adapté à tes besoins, puis nous te proposons un accompagnement sur mesure, avec une offre tarifaire transparente et alignée sur tes ambitions."
+},
+{
+  index: 2,
+  title: "Conception de ton plan d'action sur mesure",
+  description: "Nous analysons tes besoins pour te proposer : une programmation personnalisée (renforcement musculaire, nutrition) adaptée à tes objectifs et à ton niveau. Une sélection d'équipements optimisés pour tes défis et ton confort, afin que tu sois prêt·e à performer en toute sérénité."
+},
+{
+  index: 3,
+  title: "Suivi hebdomadaire et ajustements",
+  description: "Chaque semaine, nous faisons un point personnalisé pour évaluer ton avancement, écouter tes ressentis et ajuster ta programmation si nécessaire. Ton parcours évolue, et nous aussi : notre objectif est de t'accompagner au plus près de tes besoins, pour des progrès constants et durables."
+},
+{
+  index: 4,
+  title: "Le Jour J : un accompagnement complet",
+  description: "Pour chaque compétition ou sortie majeure, nous sommes à tes côtés avant, pendant et après l'effort. Conseils techniques, gestion du stress, stratégie de course et débriefing : nous t'aidons à vivre une expérience optimale, pour que tu donnes le meilleur de toi-même en toute confiance."
+},
+{
+  index: 5,
+  title: "Un accompagnement qui grandit avec toi",
+  description: "Ton projet évolue, et notre accompagnement aussi. À chaque étape de ta vie, nous adaptons ton suivi et tes objectifs, avec une équipe dédiée à ton écoute. Parce que ton succès est aussi le nôtre, nous restons disponibles pour faire de ton parcours une aventure unique et inspirante."
+}
+];
+---
+
+{
+  content.map((item) => {
+    return (
+      <AccordionItem
+        index={item.index}
+        title={item.title}
+        description={item.description}
+      />
+    );
+  })
+}

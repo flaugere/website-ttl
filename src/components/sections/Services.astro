@@ -1,0 +1,86 @@
+---
+import SectionTitle from "../ui/SectionTitle.astro";
+import ServiceCard from "../ui/ServiceCard.astro";
+import Section from "./Section.astro";
+
+import c1 from "../../assets/pics/card-pic1.png";
+import c2 from "../../assets/pics/card-pic2.png";
+import c3 from "../../assets/pics/card-pic3.png";
+import c4 from "../../assets/pics/card-pic4.png";
+import c5 from "../../assets/pics/card-pic5.png";
+import c6 from "../../assets/pics/card-pic6.png";
+
+const cards = [
+  {
+    index: 1,
+    titleTop: "Matériel",
+    titleBottom: "La paire de chaussures",
+    img: c1,
+    alt: "chaussure",
+    link: "/services",
+  },
+  {
+    index: 2,
+    titleTop: "Matériel",
+    titleBottom: "Les accessoires : lumières, batons, ...",
+    img: c2,
+    alt: "accessoires trail",
+    link: "/services",
+  },
+  {
+    index: 3,
+    titleTop: "Alimentation",
+    titleBottom: "Les bonnes pratiques au quotidien et dans l'effort",
+    img: c3,
+    alt: "alimentation",
+    link: "/services",
+  },
+  {
+    index: 1,
+    titleTop: "Mental",
+    titleBottom: "Préparation, adaptation, écoute",
+    img: c4,
+    alt: "Préparation mentale",
+    link: "/services",
+  },
+  {
+    index: 2,
+    titleTop: "Stratégie",
+    titleBottom: "Planifier, progresser avec intelligence",
+    img: c5,
+    alt: "stratégie",
+    link: "/services",
+  },
+  {
+    index: 3,
+    titleTop: "Technologie",
+    titleBottom: "Conseils pour être serein.e avec montres, apps, IA",
+    img: c6,
+    alt: "technologie",
+    link: "/services",
+  },
+];
+
+const description =
+  "Avec toi, à chaque foulée. Nous concevons une expérience Trail sur mesure, à ton image : l'équipement idéal, une préparation précise et un renforcement adapté, pour que tu progresses en confiance et en santé.";
+---
+
+<Section id="services">
+  <div class="mt-[140px] mb-5">
+    <SectionTitle sectionTitle="Services" description={description} />
+    <div class="grid lg:grid-cols-2 lg:grid-rows-3 gap-10">
+      {
+        cards.map((card) => (
+          <ServiceCard
+            index={card.index}
+            titleTop={card.titleTop}
+            titleBottom={card.titleBottom}
+            img={card.img}
+            alt={card.alt}
+            link={card.link}
+          />
+        ))
+      }
+    </div>
+  </div>
+</Section>
