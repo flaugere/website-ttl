@@ -13,24 +13,24 @@ import c6 from "../../assets/pics/card-pic6.png";
 const cards = [
   {
     index: 1,
-    titleTop: "Matériel",
-    titleBottom: "La paire de chaussures",
+    titleTop: "La paire parfaite existe",
+    titleBottom: "👟 Minimaliste, maximaliste, drop 0, ultra légère ou protectrice... On te guide !",
     img: c1,
     alt: "chaussure",
     link: "/services",
   },
   {
     index: 2,
-    titleTop: "Matériel",
-    titleBottom: "Les accessoires : lumières, batons, ...",
+    titleTop: "Les accessoires",
+    titleBottom: "Lumières, batons, ... Ton projet évolue, ton matos aussi. Peut-être un petit coup de main pour choisir les bons outils ?",
     img: c2,
     alt: "accessoires trail",
     link: "/services",
   },
   {
     index: 3,
-    titleTop: "Alimentation",
-    titleBottom: "Les bonnes pratiques au quotidien et dans l'effort",
+    titleTop: "Conseils alimentation",
+    titleBottom: "Les bonnes pratiques au quotidien, avant, pendant et après l'effort",
     img: c3,
     alt: "alimentation",
     link: "/services",
@@ -38,15 +38,15 @@ const cards = [
   {
     index: 1,
     titleTop: "Mental",
-    titleBottom: "Préparation, adaptation, écoute",
+    titleBottom: "Préparation, adaptation, écoute. Le trail se court aussi avec la tête.",
     img: c4,
     alt: "Préparation mentale",
     link: "/services",
   },
   {
     index: 2,
-    titleTop: "Stratégie",
-    titleBottom: "Planifier, progresser avec intelligence",
+    titleTop: "Stratégie, saisonnalité",
+    titleBottom: "Planifier avec raison. Courir avec passion. Tu peux avoir besoin d'un regard externe pour avancer avec discernement.",
     img: c5,
     alt: "stratégie",
     link: "/services",
@@ -54,7 +54,7 @@ const cards = [
   {
     index: 3,
     titleTop: "Technologie",
-    titleBottom: "Conseils pour être serein.e avec montres, apps, IA",
+    titleBottom: "Conseils pour être serein.e avec montres, apps, IA. Aujourd'hui, il devient indispensable d'optimiser et la technologie peut te l'offrir.",
     img: c6,
     alt: "technologie",
     link: "/services",
@@ -67,7 +67,7 @@ const description =
 
 <Section id="services">
   <div class="mt-[140px] mb-5">
-    <SectionTitle sectionTitle="Services" description={description} />
+    <SectionTitle sectionTitle="Ton bilan personnalisé" description={description} />
     <div class="grid lg:grid-cols-2 lg:grid-rows-3 gap-10">
       {
         cards.map((card) => (

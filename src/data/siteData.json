@@ -1,8 +1,8 @@
 {
-  "title": "Trailthelimit",
-  "description": "Trailthelimit is a simple and minimalistic blog theme for Ghost. It is designed to be a perfect starting point for your blog project.",
+  "title": "TrailTheLimit",
+  "description": "Vos coachs/conseillés pour vivre le trail sans limite",
   "image": {
     "src": "https://www.instagram.com/trailthelimit//raw/main/public/cover.png",
-    "alt": "Trailthelimit"
+    "alt": "TrailTheLimit"
   }
 }
