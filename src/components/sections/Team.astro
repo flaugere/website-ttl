@@ -19,8 +19,10 @@ const team = [
     pic: p1,
     name: "Tom FLAUGERE",
     role: "Fondateur / Ultra-traileur / Expert équipement",
-    description:
+    description: 
       "Passionné par l'aventure et les défis extrêmes, il cumule plus de 10 ans d'expérience en trail et ultra-trail. Depuis son adolescence, il allie musculation et course à pied, une combinaison qui lui permet d'optimiser la performance et la résistance sur les sentiers les plus exigeants. Fort de son parcours en vente et conseil de matériel outdoor, Tom sait exactement quel équipement correspond à tes besoins, pour que tu partes toujours serein et préparé.",
+    palmares: "FestaTrail 2024 108 & 4500D+ 15h 5eme et 1er Catégorie. <br /> Grand Trail d'Auvergne 2025 50K & 2000D+, 4h30, 13e/1020. <br />Marathon de Toulouse 2025 2h53 91e/5093"
+,
     link: "https://www.instagram.com/tom_flgre/",
   },
   {
@@ -29,6 +31,7 @@ const team = [
     role: "Fondateur / Traileur / Coach sportif",
     description:
       "Passionné par le dépassement de soi, il pratique la musculation depuis plus de 20 ans et s'est tourné vers le trail en 2017. Avec plusieurs préparations à son actif et un diplôme de coach, il t'accompagne dans ta préparation physique, en alliant force, endurance et technique.",
+    palmares: "Eric Favre Men's Physique 2017 - 1ère place",
     link: "https://www.instagram.com/david_flgr",
   }
 ];
@@ -48,6 +51,7 @@ const team = [
             name={member.name}
             role={member.role}
             description={member.description}
+            palmares={member.palmares}
             link={member.link}
           />
         ))

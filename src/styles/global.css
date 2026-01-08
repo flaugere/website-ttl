@@ -29,7 +29,7 @@
   }
 
   :root {
-    --green: #52bc04;
+    --green: #74bc3f;
     --orange: #ff8f1a;
     --black: rgb(0, 0, 0);
     --dark: #191a23;
@@ -123,15 +123,18 @@
     }
 
     .greenhead {
-      @apply bg-green text-black rounded-[7px] px-[7px];
+      @apply bg-green text-black rounded-[2px] px-[2px];
+      padding: 10px;
     }
 
     .whitehead {
-      @apply bg-white text-black rounded-[7px] px-[7px];
+      @apply bg-white text-black rounded-[2px] px-[2px];
+      padding: 10px;
     }
 
     .blackhead {
-      @apply bg-black text-white rounded-[7px] px-[7px];
+      @apply bg-black text-white rounded-[2px] px-[2px];
+      padding: 10px;
     }
   }
 }

@@ -3,7 +3,7 @@ import { Image } from "astro:assets";
 import insta from "../../assets/pics/profile-insta.svg";
 import Card from "./Card.astro";
 
-const { pic, name, role, description, link } = Astro.props;
+const { pic, name, role, description, link, palmares } = Astro.props;
 ---
 
 <Card isUnderline={true}>
@@ -20,5 +20,10 @@ const { pic, name, role, description, link } = Astro.props;
     </div>
     <div class="w-full h-[1px] bg-black my-7"></div>
     <div>{description}</div>
+    { palmares &&
+    <div class="mt-2">
+      <strong>Palmarès</strong> : <span set:html={palmares}></span>
+    </div>
+    }
   </div>
 </Card>
