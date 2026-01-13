@@ -4,16 +4,16 @@
 
 @layer base {
   @font-face {
-    font-family: "Grotesk";
-    src: url("/fonts/grotesk/SpaceGrotesk-Regular.woff"), format("woff");
+    font-family: "Poppins, Robotto";
+    src: url("/fonts/poppins/Poppins-Regular.woff"), format("ttf");
     font-weight: normal;
     font-style: normal;
     font-display: swap;
   }
 
   @font-face {
-    font-family: "Grotesk";
-    src: url("/fonts/grotesk/SpaceGrotesk-Medium.woff"), format("woff");
+    font-family: "Poppins";
+    src: url("/fonts/poppins/Poppins-Medium.woff"), format("ttf");
     font-weight: 500;
     font-style: normal;
     font-display: swap;
