@@ -4,22 +4,21 @@ import { Image } from "astro:assets";
 import Logo from "../../assets/logo.png";
 
 const menuitems = [
-  { href: '/#about', label: 'Tes coachs' },
+  { href: '/#about', label: 'L\'équipe' },
   { href: '/#services', label: 'Ton bilan' },
-  { href: '/#process', label: 'Ton accompagnement' },
-  { href: '/boutique', label: 'Boutique' },
+  { href: '/#process', label: 'Nos services' }
 ];
 
 const navButton = { href: 'mailto:contact@trailthelimit.fr', label: 'Contacte nous !' };
 ---
 
 <div class="mt-20">
-  <nav class="w-full top-0 left-0 z-50 fixed bg-white border-b-2 border-black-600">
-    <header class="flex flex-col lg:flex-row justify-between items-center my-5 px-6 md:px-32">
+  <nav class="w-full top-0 left-0 z-50 fixed bg-white border border-black-300">
+    <header class="flex flex-col lg:flex-row justify-between items-center my-2 px-6 md:px-32">
       <Astronav>
         <div class="flex w-full lg:w-auto items-center justify-between">
           <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
-            <Image src={Logo} width="150" alt="Logo TraiLTheLimit" />
+            <Image src={Logo} width="300" alt="Logo TraiLTheLimit" style="width:150px"/>
           </a>
           <div class="block lg:hidden">
             <div id="menu-icon" class="w-8 h-8 text-black cursor-pointer">
@@ -50,11 +49,11 @@ const navButton = { href: 'mailto:contact@trailthelimit.fr', label: 'Contacte no
             ))}
             <div class="lg:hidden flex items-center justify-center mt-3 gap-4">
               <a 
-                class="mobile-nav-link px-9 py-5 rounded-2xl border border-zinc-900 bg-white hover:bg-orange text-black hover:text-orange inline-flex" 
+                class="mobile-nav-link px-4 py-2 bg-orange hover:bg-white rounded-2xl text-center text-white hover:text-orange hover:text-orange border font-normal leading-7 inline-flex" 
                 href={navButton.href}
                 data-close-menu="true"
               >
-                <h2 class="text-center text-xl font-normal leading-7">{navButton.label}</h2>
+                <h2 class="text-center font-normal leading-7">{navButton.label}</h2>
               </a>
             </div>
           </ul>
@@ -63,7 +62,7 @@ const navButton = { href: 'mailto:contact@trailthelimit.fr', label: 'Contacte no
 
       <div>
         <div class="hidden lg:flex items-center gap-4">
-          <a class="px-9 py-5 rounded-2xl border border-zinc-900 bg-white hover:bg-orange text-black hover:text-white inline-flex" href={navButton.href}>
+          <a class="px-4 py-2 bg-orange hover:bg-white rounded-2xl text-center text-white hover:text-orange hover:text-orange border text-xl font-normal leading-7" href={navButton.href}>
             <h2 class="text-center text-xl font-normal leading-7">{navButton.label}</h2>
           </a>
         </div>

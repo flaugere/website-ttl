@@ -11,7 +11,7 @@ export default {
     },
     extend: {
       fontFamily: {
-        grotesk: ["Grotesk", "sans-serif"],
+        poppins: ["Poppins", "sans-serif"],
       },
       fontWeight: {
         regular: 400,
