@@ -5,7 +5,7 @@
 @layer base {
   @font-face {
     font-family: "Poppins, Robotto";
-    src: url("/fonts/poppins/Poppins-Regular.woff"), format("ttf");
+    src: url("/fonts/poppins/Poppins-Regular.ttf"), format("ttf");
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -13,7 +13,7 @@
 
   @font-face {
     font-family: "Poppins";
-    src: url("/fonts/poppins/Poppins-Medium.woff"), format("ttf");
+    src: url("/fonts/poppins/Poppins-Medium.ttf"), format("ttf");
     font-weight: 500;
     font-style: normal;
     font-display: swap;
