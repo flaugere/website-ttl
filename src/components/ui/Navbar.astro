@@ -6,10 +6,9 @@ import Logo from "../../assets/logo.png";
 const menuitems = [
   { href: '/#about', label: 'L\'équipe' },
   { href: '/#services', label: 'Ton bilan' },
-  { href: '/#process', label: 'Nos services' }
 ];
 
-const navButton = { href: 'mailto:contact@trailthelimit.fr', label: 'Contacte nous !' };
+const navButton = { href: 'https://calendly.com/contact-trailthelimit/30min', label: 'Mon bilan gratuit !' };
 ---
 
 <div class="mt-20">
@@ -62,7 +61,7 @@ const navButton = { href: 'mailto:contact@trailthelimit.fr', label: 'Contacte no
 
       <div>
         <div class="hidden lg:flex items-center gap-4">
-          <a class="px-4 py-2 bg-orange hover:bg-white rounded-2xl text-center text-white hover:text-orange hover:text-orange border text-xl font-normal leading-7" href={navButton.href}>
+          <a class="btn-primary" href={navButton.href}>
             <h2 class="text-center text-xl font-normal leading-7">{navButton.label}</h2>
           </a>
         </div>

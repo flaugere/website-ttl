@@ -40,7 +40,7 @@
   /* @layer base {
     * {
       box-sizing: border-box;
-      font-family: "Grotesk", sans-serif;
+      font-family: "Poppins", sans-serif;
       scroll-behavior: smooth;
     }
 
@@ -102,10 +102,10 @@
 
   @layer components {
     .btn-primary {
-      @apply bg-dark text-white rounded-lg px-[35px] py-5 transition-all duration-200;
+      @apply bg-orange text-white rounded-lg px-[35px] py-5 transition-all duration-200 border;
     }
     .btn-primary:hover {
-      @apply bg-green text-black transform scale-105;
+      @apply bg-white text-orange transform scale-105;
     }
 
     .btn-secondary {
@@ -169,10 +169,17 @@
 }
 
 /* Custom TTL */
+.text-orange {
+  color: var(--orange);
+}
 .bg-orange,
 .hover\:bg-orange:hover{
   background-color: var(--orange);
 }
 .hover\:text-orange:hover {
   color: var(--orange);
+}
+main {
+  background: #FF8F1A;
+  background: linear-gradient(359deg,rgba(255, 143, 26, 1) 0%, rgba(253, 226, 205, 1) 20%);
 }

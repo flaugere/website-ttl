@@ -5,72 +5,30 @@ import Instagram from "../../assets/instagram.svg";
 import Logo from "../../assets/logo.png";
 import Twitter from "../../assets/twitter.svg";
 import ShortForm from "../ui/ShortForm.astro";
+import c5 from "../../assets/pics/card-pic5.png";
 
 const logos = [
   { name: "Facebook", src: Facebook, link: "https://www.facebook.com/profile.php?id=61584366373531" },
   { name: "Instagram", src: Instagram, link: "https://www.instagram.com/trailthelimit/" },
 ];
 
-const links = [
-  { name: "L'équipe", href: "#about" },
-  { name: "Ton accompagnement", href: "#process" },
-  { name: "Ton bilan", href: "#services" },
-];
+const links = [];
 ---
 
-<section class="sm:px-5">
-  <div class="w-full max-w-[1240px] mx-auto">
+<section>
+  <div class="w-full mx-auto bg-white ">
     <div
-      class="px-[15px] bg-dark text-gray py-[55px] lg:px-[60px] sm:rounded-t-[45px]"
+      class="px-[15px] text-black py-[55px] lg:px-[60px] w-full max-w-[1280px] mx-auto"
     >
-      <div>
-        <div
-          class="flex flex-col lg:flex-row gap-7 items-center justify-between"
-        >
-          <picture>
-            <a href="#home">
-              <Image src={Logo} alt="Logo Trailthelimit" width="150"/>
-            </a>
-          </picture>
-          <ul class="flex flex-col sm:flex-row gap-5">
-            {
-              links.map((link) => {
-                return (
-                  <li class="text-center">
-                    <a class="underline" href={link.href}>
-                      {link.name}
-                    </a>
-                  </li>
-                );
-              })
-            }
-          </ul>
-          <ul class="flex gap-5">
-            {
-              logos.map((logo) => {
-                return (
-                  <li>
-                    <a href={logo.link} target="_blank">
-                      <picture>
-                        <Image src={logo.src} alt={logo.name} width="20" />
-                      </picture>
-                    </a>
-                  </li>
-                );
-              })
-            }
-          </ul>
-        </div>
-
         <div class="flex flex-col lg:flex-row mt-[66px] mb-[51px]">
-          <div
-            class="flex text-center lg:text-start flex-col w-full lg:w-[30%]"
+          <picture
           >
-            <h3 class="mb-5 text-center md:text-left text-2xl text-green">Nous contacter</h3>
-            <div class="flex flex-col justify-between gap-4">
-              <span> Email: <a href="mailto:contact@trailthelimit.fr">contact@trailthelimit.fr</a> </span>
-            </div>
-          </div>
+            <Image
+              src={c5}
+              class="rounded-[45px]"
+              alt="David FLAUGÈRE Coach Sportif"
+            />
+          </picture>
           <div class="flex-grow my-10 lg:my-0 lg:ml-12">
             <ShortForm />
           </div>

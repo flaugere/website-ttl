@@ -4,26 +4,71 @@ import Card from "../ui/Card.astro";
 import Section from "./Section.astro";
 
 import propImg from "../../assets/pics/david_run.png";
+import imgTom from "../../assets/pics/tom.png";
 ---
 
-<Section>
+<Section id="about">
   <Card>
     <div
       class="flex bg-[#F3F3F3] rounded-[45px] p-[60px] relative mt-[123px] mb-[163px]"
     >
       <div class="w-full md:w-[40%] flex flex-col gap-[26px]">
-        <h2 class="text-3xl font-medium">Rejoins l'aventure</h2>
+        <h2 class="text-3xl font-medium"><span class="text-green">David FLAUGÈRE</span></h2>
         <p>
-          Sans engagement, contacte nous, faisons un bilan d'où tu en es et où tu veux aller.
+          Passionné par le dépassement de soi, il pratique la musculation depuis plus de 20 ans et s'est tourné vers le trail en 2017. <br />Avec plusieurs préparations à son actif et un diplôme de coach, il t'accompagne dans ta préparation physique, en alliant force, endurance et technique.
         </p>
-        <a href="https://calendly.com/contact-trailthelimit/30min" class="btn-primary bg-orange">Prends RDV pour ton bilan</a>
+        <p>
+          <strong>Palmarès </strong>: Eric Favre Men's Physique 2017 - 1ère place 
+        </p>
+        <picture
+          class="md:hidden items-center justify-center"
+        >
+          <Image
+            src={propImg}
+            alt="David FLAUGÈRE Coach Sportif"
+            class="md:flex lg:h-full lg:w-auto"
+          />
+        </picture>
       </div>
       <picture
         class="hidden md:flex absolute right-[-10%] lg:right-0 top-[-15%] h-[450px] items-center justify-center"
       >
         <Image
           src={propImg}
-          alt="This is an illustration"
+          alt="David FLAUGÈRE Coach Sportif"
+          class="hidden md:flex lg:h-full lg:w-auto"
+        />
+      </picture>
+    </div>
+  </Card>
+  <Card>
+    <div
+      class="flex bg-[#F3F3F3] rounded-[45px] p-[60px] relative mt-[123px] mb-[163px]"
+    >
+      <div class="w-full md:w-[40%] flex flex-col gap-[26px]">
+        <h2 class="text-3xl font-medium text-green">Tom FLAUGÈRE</h2>
+        <p>
+          Passionné par l'aventure et les défis extrêmes, il cumule plus de 10 ans d'expérience en trail et ultra-trail.<br /> Depuis son adolescence, il allie musculation et course à pied, une combinaison qui lui permet d'optimiser la performance et la résistance sur les sentiers les plus exigeants.<br /> Fort de son parcours en vente et conseil de matériel outdoor, il sait exactement quel équipement correspond à tes besoins, pour que tu partes toujours serein⸱e et préparé⸱e.
+        </p>
+        <p>
+          <strong>Palmarès </strong> : FestaTrail 2024 108 & 4500D+ 15h 5eme et 1er Catégorie. <br /> Grand Trail d'Auvergne 2025 50K & 2000D+, 4h30, 13e/1020. <br />Marathon de Toulouse 2025 2h53 91e/5093
+        </p>
+        <picture
+          class="md:hidden items-center justify-center"
+        >
+          <Image
+            src={imgTom}
+            alt="Tom FLAUGÈRE Ultra Traileur / Conseiller expert Equipement"
+            class="lg:h-full lg:w-auto"
+          />
+        </picture>
+      </div>
+      <picture
+        class="hidden md:flex absolute right-[-10%] lg:right-0 top-[-15%] h-[650px] items-center justify-center"
+      >
+        <Image
+          src={imgTom}
+          alt="Tom FLAUGÈRE Ultra Traileur / Conseiller expert Equipement"
           class="hidden md:flex lg:h-full lg:w-auto"
         />
       </picture>
