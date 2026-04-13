@@ -181,5 +181,5 @@
 }
 main {
   background: #FF8F1A;
-  background: linear-gradient(359deg,rgba(255, 143, 26, 1) 0%, rgba(253, 226, 205, 1) 20%);
+  background: linear-gradient(359deg,rgb(255, 173, 84) 0%, rgba(253, 226, 205, 1) 20%);
 }

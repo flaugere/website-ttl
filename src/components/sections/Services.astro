@@ -62,12 +62,20 @@ const cards = [
 ];
 
 const description =
-  "L'équipement qui te correspond, une préparation précise et un renforcement adapté, pour que tu progresses en confiance et en santé.";
+  "Un questionnaire à remplir et on planifie ensemble une visio avec nos coachs/conseillers";
 ---
 
 <Section id="services">
   <div class="mt-[70px] mb-5">
-    <SectionTitle sectionTitle="Ton bilan gratuit" description={description} />
+    <SectionTitle sectionTitle="Ton check-up Ultra Trail" description={description} />
+    <div class="gap-10 mb-20 sm:flex-row">
+      <ul class="list-none list-inside text-left text-xl sm:text-xl">
+        <li class="ml-10">💰 Tarif : 80€</li>
+        <li class="ml-10">💻 30 minutes d'échange en visio</li>
+        <li class="ml-10">📄 Compte rendu au format PDF avec les conseils et recommandations personnalisés.</li>
+        <li class="ml-10">✉️ Un accompagnement par mail pendant 1 mois après la visio pour répondre à tes questions.</li>
+      </ul>
+    </div>
     <div class="grid lg:grid-cols-3 lg:grid-rows-2 gap-10">
       {
         cards.map((card) => (
