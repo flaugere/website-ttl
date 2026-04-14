@@ -3,8 +3,8 @@ import { Image } from "astro:assets";
 import Card from "../ui/Card.astro";
 import Section from "./Section.astro";
 
-import propImg from "../../assets/pics/david_run.png";
-import imgTom from "../../assets/pics/tom_profil.png";
+import propImg from "../../assets/pics/ceventrail_david.jpg";
+import imgTom from "../../assets/pics/ceventrail_tom.jpg";
 ---
 
 <Section id="about">
@@ -12,13 +12,13 @@ import imgTom from "../../assets/pics/tom_profil.png";
     <div
       class="flex bg-[#F3F3F3] rounded-[45px] p-[60px] relative mt-[123px] mb-[163px]"
     >
-      <div class="w-full md:w-[40%] flex flex-col gap-[26px]">
+      <div class="w-full md:w-[50%] flex flex-col gap-[26px]">
         <h2 class="text-3xl font-medium"><span class="text-green">David FLAUGÈRE</span></h2>
         <p>
           Passionné par le dépassement de soi, il pratique la musculation depuis plus de 20 ans et s'est tourné vers le trail en 2017. <br />Avec plusieurs préparations à son actif et un diplôme de coach, il t'accompagne dans ta préparation physique, en alliant force, endurance et technique.
         </p>
         <p>
-          <strong>Palmarès </strong>: Eric Favre Men's Physique 2017 - 1ère place 
+          <strong>Palmarès </strong>: <br /><br />Eric Favre Men's Physique 2017 (culturisme) - 1ère place 
           <br />Terrasses du lodévois 2026 : 28km 1400D+, 3h52, 141/412  
         </p>
         <picture
@@ -32,7 +32,7 @@ import imgTom from "../../assets/pics/tom_profil.png";
         </picture>
       </div>
       <picture
-        class="hidden md:flex absolute right-[-10%] lg:right-0 top-[-15%] h-[450px] items-center justify-center"
+        class="hidden md:flex ml-20 h-[450px] items-center justify-center"
       >
         <Image
           src={propImg}
@@ -46,16 +46,17 @@ import imgTom from "../../assets/pics/tom_profil.png";
     <div
       class="flex bg-[#F3F3F3] rounded-[45px] p-[60px] relative mt-[123px] mb-[163px]"
     >
-      <div class="w-full md:w-[40%] flex flex-col gap-[26px]">
+      <div class="w-full md:w-[50%] flex flex-col gap-[26px]">
         <h2 class="text-3xl font-medium text-green">Tom FLAUGÈRE</h2>
         <p>
           Passionné par l'aventure et les défis extrêmes, il cumule plus de 10 ans d'expérience en trail et ultra-trail.<br /> Fort de son parcours en vente et conseil de matériel outdoor, il sait exactement quel équipement correspond à tes besoins, pour que tu partes toujours serein⸱e et préparé⸱e.
         </p>
         <p>
-          <strong>Palmarès </strong> : FestaTrail 2024 108 & 4500D+ 15h 5eme et 1er Catégorie. 
+          <strong>Palmarès </strong> : <br />
+          <br /> Ceventrail 2026 : 101K & 4900D+, 12H34, 9/234 et 4ème Catégorie.
+          <br />Marathon de Toulouse 2025, 2h53, 91/5093. 
+          <br /> FestaTrail 2024 108 & 4500D+ 15h 5eme et 1er Catégorie. 
           <br /> Ceventrail 2023 : 42K & 2200D+, 4H38, 8/300. 
-          <br /> Ceventrail 2026 : 101K & 4900D+, 12H34, 9/234 et 4ème Catégorie. 
-          <br />Marathon de Toulouse 2025, 2h53, 91/5093
         </p>
         <picture
           class="md:hidden items-center justify-center"
@@ -68,7 +69,7 @@ import imgTom from "../../assets/pics/tom_profil.png";
         </picture>
       </div>
       <picture
-        class="hidden md:flex absolute right-[-10%] lg:right-0 top-[-15%] h-[650px] items-center justify-center"
+        class="hidden md:flex ml-20 h-[450px] items-center justify-center"
       >
         <Image
           src={imgTom}
