@@ -4,14 +4,14 @@ title: "🌄 L'Ultra-trail n'est pas seulement une épreuve physique, c'est un d
 description: "🌄 L'Ultra-trail n'est pas seulement une épreuve physique, c'est un défi pour votre cerveau qui..."
 excerpt: "🌄 L'Ultra-trail n'est pas seulement une épreuve physique, c'est un défi pour votre cerveau qui..." 
 date: 2026-03-31
-image: https://scontent-mrs2-2.cdninstagram.com/v/t51.82787-15/658782862_17856362115632339_158219894963690426_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=8VOQrlJEKBEQ7kNvwGMW0iy&_nc_oc=Adp5zBxLSBcD9H4d5-TL3HL77t_nbRPy6B78GWEL71oo7cJ4N-ooQ68a7xhkEzQAGoI&_nc_zt=23&_nc_ht=scontent-mrs2-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AoYRVbGIaj271380ye3LDA&_nc_tpa=Q5bMBQFGwUF0IwIjVPskKgzpCUsh0L0WveG48hKj_o83RndAKeMNdbHom4dalKOTJ-O3iXlkA27f6Em36g&oh=00_Af0rKapqwbINzTBPyzm5FZ4j8NgzEXx6mZdBz50gl4Ogig&oe=69E27A0D
+image: https://scontent-mrs2-2.cdninstagram.com/v/t51.82787-15/658782862_17856362115632339_158219894963690426_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=204FtnmMCHUQ7kNvwExXvgo&_nc_oc=AdoOwl7e_f7ZvPZNUkeisN59oK_PcodBR2ySG8o4VbLUvA3BSDNUvsm6clTMwSCYlmU&_nc_zt=23&_nc_ht=scontent-mrs2-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=8kRJXBz95t02PLurqzjIZg&_nc_tpa=Q5bMBQGoBfHvFul-RtWtLEEQbcNwDdzatieN68S3bxCfI18ZwweLIgBKLvTHR9nNfYoXrzQ4kRrJUBqaGg&oh=00_Af3_GLZdKYVfINjdWBBA6QH-VeSBGepuUFXhuW1ZqLVGAg&oe=69EEC80D
 tags: ["trail", "ultratrail", "preparationmentale", "coachingtrail", "trailrunnerlife"]
 categories: ["trail", "ultratrail", "preparationmentale", "coachingtrail", "trailrunnerlife"]
 ---
 
 # 🌄 L'Ultra-trail n'est pas seulement une épreuve physique, c'est un défi pour votre cerveau qui doit construire un nouveau modèle du monde pour s'adapter à l'effort extrême. 
 
-![thumbnail](https://scontent-mrs2-2.cdninstagram.com/v/t51.82787-15/658782862_17856362115632339_158219894963690426_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=8VOQrlJEKBEQ7kNvwGMW0iy&_nc_oc=Adp5zBxLSBcD9H4d5-TL3HL77t_nbRPy6B78GWEL71oo7cJ4N-ooQ68a7xhkEzQAGoI&_nc_zt=23&_nc_ht=scontent-mrs2-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AoYRVbGIaj271380ye3LDA&_nc_tpa=Q5bMBQFGwUF0IwIjVPskKgzpCUsh0L0WveG48hKj_o83RndAKeMNdbHom4dalKOTJ-O3iXlkA27f6Em36g&oh=00_Af0rKapqwbINzTBPyzm5FZ4j8NgzEXx6mZdBz50gl4Ogig&oe=69E27A0D)
+![thumbnail](https://scontent-mrs2-2.cdninstagram.com/v/t51.82787-15/658782862_17856362115632339_158219894963690426_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=204FtnmMCHUQ7kNvwExXvgo&_nc_oc=AdoOwl7e_f7ZvPZNUkeisN59oK_PcodBR2ySG8o4VbLUvA3BSDNUvsm6clTMwSCYlmU&_nc_zt=23&_nc_ht=scontent-mrs2-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=8kRJXBz95t02PLurqzjIZg&_nc_tpa=Q5bMBQGoBfHvFul-RtWtLEEQbcNwDdzatieN68S3bxCfI18ZwweLIgBKLvTHR9nNfYoXrzQ4kRrJUBqaGg&oh=00_Af3_GLZdKYVfINjdWBBA6QH-VeSBGepuUFXhuW1ZqLVGAg&oe=69EEC80D)
 
 
 

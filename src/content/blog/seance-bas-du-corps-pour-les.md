@@ -4,14 +4,14 @@ title: "💥 Séance BAS DU CORPS pour les traileur-se 🚀"
 description: "💥 Séance BAS DU CORPS pour les traileur-se 🚀 👉 Quads, fessiers, mollets avec un..."
 excerpt: "💥 Séance BAS DU CORPS pour les traileur-se 🚀 👉 Quads, fessiers, mollets avec un..." 
 date: 2026-01-05
-image: https://scontent-mrs2-3.cdninstagram.com/v/t51.71878-15/610996313_846587208180638_8001288528368628200_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=eliV0sxpcKgQ7kNvwFdB6g7&_nc_oc=Ado5NnIIHJtj-qo8yiwKsW485jiepLiBGIts3HT3_b1fFJurr4FGWkW1zbuAXTpGvPc&_nc_zt=23&_nc_ht=scontent-mrs2-3.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AoYRVbGIaj271380ye3LDA&_nc_tpa=Q5bMBQHogCdLzIEmOdtxqwoHQjj_4mE1i-9b7hJNTrRRPpNqc-DgMnQ-Gq0AzIOXq90EKeLLJUTmPEtlPw&oh=00_Af3xhcOHto2e6F8CfWo8fJCW7o10uHdlg2mV_dfuEJEZ4Q&oe=69E28497
+image: https://scontent-mrs2-3.cdninstagram.com/v/t51.71878-15/610996313_846587208180638_8001288528368628200_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=vhTAd415uCQQ7kNvwF8QTlw&_nc_oc=AdpyNRbYrPA9fpy6jY9YNp-9e-_svIQR8V3wWV6ey0ZH5LiJR87TGWtMIX_b35WyD_s&_nc_zt=23&_nc_ht=scontent-mrs2-3.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=8kRJXBz95t02PLurqzjIZg&_nc_tpa=Q5bMBQGnvLsY-O8m-NPrLrDJevHqMXDqR3ljFT2B1jJvP-F2AR4l_zNO16-IIRE2eBqblV8cMR-520DN0A&oh=00_Af3jVauIOd0LUsz3Qo-_10xrG7c9WWCXYMqzUllp4YoDBw&oe=69EED297
 tags: ["trailrunning", "ultratrail", "renforcementtrail", "renfotrail", "coachingtrail"]
 categories: ["trailrunning", "ultratrail", "renforcementtrail", "renfotrail", "coachingtrail"]
 ---
 
 # 💥 Séance BAS DU CORPS pour les traileur-se 🚀
 
-![thumbnail](https://scontent-mrs2-3.cdninstagram.com/v/t51.71878-15/610996313_846587208180638_8001288528368628200_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=eliV0sxpcKgQ7kNvwFdB6g7&_nc_oc=Ado5NnIIHJtj-qo8yiwKsW485jiepLiBGIts3HT3_b1fFJurr4FGWkW1zbuAXTpGvPc&_nc_zt=23&_nc_ht=scontent-mrs2-3.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AoYRVbGIaj271380ye3LDA&_nc_tpa=Q5bMBQHogCdLzIEmOdtxqwoHQjj_4mE1i-9b7hJNTrRRPpNqc-DgMnQ-Gq0AzIOXq90EKeLLJUTmPEtlPw&oh=00_Af3xhcOHto2e6F8CfWo8fJCW7o10uHdlg2mV_dfuEJEZ4Q&oe=69E28497)
+![thumbnail](https://scontent-mrs2-3.cdninstagram.com/v/t51.71878-15/610996313_846587208180638_8001288528368628200_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=vhTAd415uCQQ7kNvwF8QTlw&_nc_oc=AdpyNRbYrPA9fpy6jY9YNp-9e-_svIQR8V3wWV6ey0ZH5LiJR87TGWtMIX_b35WyD_s&_nc_zt=23&_nc_ht=scontent-mrs2-3.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=8kRJXBz95t02PLurqzjIZg&_nc_tpa=Q5bMBQGnvLsY-O8m-NPrLrDJevHqMXDqR3ljFT2B1jJvP-F2AR4l_zNO16-IIRE2eBqblV8cMR-520DN0A&oh=00_Af3jVauIOd0LUsz3Qo-_10xrG7c9WWCXYMqzUllp4YoDBw&oe=69EED297)
 
 
 

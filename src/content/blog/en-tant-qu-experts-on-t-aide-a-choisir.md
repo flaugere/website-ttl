@@ -4,14 +4,14 @@ title: "En tant qu'experts, on t'aide à choisir ton matos 🤓💥"
 description: "En tant qu'experts, on t'aide à choisir ton matos 🤓💥 🙋‍♂️ Nos pieds sont certainement..."
 excerpt: "En tant qu'experts, on t'aide à choisir ton matos 🤓💥 🙋‍♂️ Nos pieds sont certainement..." 
 date: 2026-01-23
-image: https://scontent-mrs2-2.cdninstagram.com/v/t51.82787-15/662531678_17857345710632339_7739763122085479845_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=yVucqeTTmywQ7kNvwGdQYhT&_nc_oc=AdqitG6otcqtJBlxLEtbVSUGScSlQIrm50JRRjIDpWIzoe0pXgHCdiUv6H5QFDiMtNw&_nc_zt=23&_nc_ht=scontent-mrs2-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AoYRVbGIaj271380ye3LDA&_nc_tpa=Q5bMBQE6mC3j-bzlqgV1MlfW3v5Jw44WSJD4IKDNwP8sUzKww6OLUEh6lNCZ9642LXkuHOajKSvKUuURyw&oh=00_Af25Bjj1teVUE0Seb4cyAROI9TZr36CVjNQP_qLGOzslfw&oe=69E278F6
+image: https://scontent-mrs2-1.cdninstagram.com/v/t51.82787-15/670783055_17858107125632339_2837441238506627823_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Dq4mbapoteIQ7kNvwHqfCUw&_nc_oc=AdononOOfD64L8tEImPi0e4-dYaVkviB3kONYGR3fPZHkvCs9aomDnAIURm-ncvrC8g&_nc_zt=23&_nc_ht=scontent-mrs2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=8kRJXBz95t02PLurqzjIZg&_nc_tpa=Q5bMBQGokFxjXU6wyt6ryIHo-YpeFVsZrLcJMZB27vzdZp1Ac1Ntyvw3kng6EN7cvk1H2NurB52WZGtXew&oh=00_Af3GaQyTSlwRvw86hTDQg55cPGQmJIJsNj7XAESNi6_l-w&oe=69EED313
 tags: ["montaigoual", "trailrunning", "conseiltrail", "coachingtrail", "snowtime"]
 categories: ["montaigoual", "trailrunning", "conseiltrail", "coachingtrail", "snowtime"]
 ---
 
 # En tant qu'experts, on t'aide à choisir ton matos 🤓💥
 
-![thumbnail](https://scontent-mrs2-2.cdninstagram.com/v/t51.82787-15/662531678_17857345710632339_7739763122085479845_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=yVucqeTTmywQ7kNvwGdQYhT&_nc_oc=AdqitG6otcqtJBlxLEtbVSUGScSlQIrm50JRRjIDpWIzoe0pXgHCdiUv6H5QFDiMtNw&_nc_zt=23&_nc_ht=scontent-mrs2-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AoYRVbGIaj271380ye3LDA&_nc_tpa=Q5bMBQE6mC3j-bzlqgV1MlfW3v5Jw44WSJD4IKDNwP8sUzKww6OLUEh6lNCZ9642LXkuHOajKSvKUuURyw&oh=00_Af25Bjj1teVUE0Seb4cyAROI9TZr36CVjNQP_qLGOzslfw&oe=69E278F6)
+![thumbnail](https://scontent-mrs2-1.cdninstagram.com/v/t51.82787-15/670783055_17858107125632339_2837441238506627823_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Dq4mbapoteIQ7kNvwHqfCUw&_nc_oc=AdononOOfD64L8tEImPi0e4-dYaVkviB3kONYGR3fPZHkvCs9aomDnAIURm-ncvrC8g&_nc_zt=23&_nc_ht=scontent-mrs2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=8kRJXBz95t02PLurqzjIZg&_nc_tpa=Q5bMBQGokFxjXU6wyt6ryIHo-YpeFVsZrLcJMZB27vzdZp1Ac1Ntyvw3kng6EN7cvk1H2NurB52WZGtXew&oh=00_Af3GaQyTSlwRvw86hTDQg55cPGQmJIJsNj7XAESNi6_l-w&oe=69EED313)
 
 
 
