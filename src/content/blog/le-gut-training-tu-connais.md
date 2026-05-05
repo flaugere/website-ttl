@@ -4,14 +4,14 @@ title: "💥 Le GUT Training tu connais ? 🍬🍌💧"
 description: "💥 Le GUT Training tu connais ? 🍬🍌💧 🧘‍♂️ En Ultra il faut savoir être..."
 excerpt: "💥 Le GUT Training tu connais ? 🍬🍌💧 🧘‍♂️ En Ultra il faut savoir être..." 
 date: 2026-04-03
-image: https://scontent-mrs2-1.cdninstagram.com/v/t51.82787-15/658142077_17856766971632339_1701941121184912433_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UZcsxxga5QgQ7kNvwFg8V61&_nc_oc=AdolyfvRrewWBxyVi7ub4WuuGaLfHlUSmoDK5F1IEYbCPajduBKoUnNtbaGRVyBQqzM&_nc_zt=23&_nc_ht=scontent-mrs2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=8kRJXBz95t02PLurqzjIZg&_nc_tpa=Q5bMBQEjnWN4PI_4aDZ0SDq8rsggJjs-88It8WFltqt8CfBcSPuB7rhKpDvQsNViYAqcJmaM3WltQnmjQg&oh=00_Af01L3QsEPUPUO6Y8nVKXKtEbRmj2GB5nLUCxEEYIHm2QQ&oe=69EEAD69
+image: https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/658142077_17856766971632339_1701941121184912433_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=rMBGhw3k08gQ7kNvwEuvZN1&_nc_oc=Adp1lEJxcWg0xfONBrWIlfgvarXyLEY89fqKM6Y_dyjNwVPOgWEGFCXzyc4n5E5cJ70&_nc_zt=23&_nc_ht=scontent-cdg6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=LtxRBNdugPF7faiTQs92cA&_nc_tpa=Q5bMBQEVXxVBVKD66BxuPXP9yBtgbz6CN1W1uFWJbqsce5oZ1RAonTch_zrU_jR9DmZcPojpdu9tdIoxtw&oh=00_Af5kgpQVmQyJy2TYscrUgHttilG0BrjkvMoojNhaP0tFkA&oe=69FF98A9
 tags: ["trail", "ultratrail", "nutritioncourse", "entrainementtrail", "coachingtrail"]
 categories: ["trail", "ultratrail", "nutritioncourse", "entrainementtrail", "coachingtrail"]
 ---
 
 # 💥 Le GUT Training tu connais ? 🍬🍌💧
 
-![thumbnail](https://scontent-mrs2-1.cdninstagram.com/v/t51.82787-15/658142077_17856766971632339_1701941121184912433_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UZcsxxga5QgQ7kNvwFg8V61&_nc_oc=AdolyfvRrewWBxyVi7ub4WuuGaLfHlUSmoDK5F1IEYbCPajduBKoUnNtbaGRVyBQqzM&_nc_zt=23&_nc_ht=scontent-mrs2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=8kRJXBz95t02PLurqzjIZg&_nc_tpa=Q5bMBQEjnWN4PI_4aDZ0SDq8rsggJjs-88It8WFltqt8CfBcSPuB7rhKpDvQsNViYAqcJmaM3WltQnmjQg&oh=00_Af01L3QsEPUPUO6Y8nVKXKtEbRmj2GB5nLUCxEEYIHm2QQ&oe=69EEAD69)
+![thumbnail](https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/658142077_17856766971632339_1701941121184912433_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=rMBGhw3k08gQ7kNvwEuvZN1&_nc_oc=Adp1lEJxcWg0xfONBrWIlfgvarXyLEY89fqKM6Y_dyjNwVPOgWEGFCXzyc4n5E5cJ70&_nc_zt=23&_nc_ht=scontent-cdg6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=LtxRBNdugPF7faiTQs92cA&_nc_tpa=Q5bMBQEVXxVBVKD66BxuPXP9yBtgbz6CN1W1uFWJbqsce5oZ1RAonTch_zrU_jR9DmZcPojpdu9tdIoxtw&oh=00_Af5kgpQVmQyJy2TYscrUgHttilG0BrjkvMoojNhaP0tFkA&oe=69FF98A9)
 
 
 

@@ -4,14 +4,14 @@ title: "🧠 Le mental en Trail ça fait toute la différence !"
 description: "🧠 Le mental en Trail ça fait toute la différence ! Les séances de côtes..."
 excerpt: "🧠 Le mental en Trail ça fait toute la différence ! Les séances de côtes..." 
 date: 2026-02-03
-image: https://scontent-mrs2-1.cdninstagram.com/v/t51.82787-15/670481400_17858107179632339_701361496883161162_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=lofH1QgstSwQ7kNvwHyK94x&_nc_oc=AdovPXwCFCXsF3IqDrwNsG2gw-MIh4Lg4GJPAk_4tByitUvxBaChtT23FmHqgipbQrU&_nc_zt=23&_nc_ht=scontent-mrs2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=8kRJXBz95t02PLurqzjIZg&_nc_tpa=Q5bMBQH8fCMz-tymlCWwbyUOx3VmEC2lEn3Q7VdBVDBJnwg3-doBAggcKiT3WPnO6mf4a3nDFCIL-1cFSg&oh=00_Af0e85ZWdLu8u2iwy-O7uN_T5OjMCyUkZFIFA6444mJsSQ&oe=69EEB5AE
+image: https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/683352626_17859471912632339_17953909886887115_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Yh2ZuL1jI3UQ7kNvwG4AlRH&_nc_oc=AdpZFVBTkm42mdHmQRgx-Or8QLadMPIXzQYplYqJSoiQQNRPWUlOs8uVSezQ8HsAGZA&_nc_zt=23&_nc_ht=scontent-cdg6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=LtxRBNdugPF7faiTQs92cA&_nc_tpa=Q5bMBQEKESwFI8taJcmZZCAShR27vRs0JfM3RE9wQBbp12nGTXpJWGNpOjrnEtae77pBszTS0xe-B7JeLw&oh=00_Af4PzjcERjrCmEpcNSCGLdSt_lD0bPt4j2HTIgefnIeHzw&oe=69FFC2F7
 tags: ["trail", "ultratrail", "coachingtrail", "entrainementtrail", "preparationmentale"]
 categories: ["trail", "ultratrail", "coachingtrail", "entrainementtrail", "preparationmentale"]
 ---
 
 # 🧠 Le mental en Trail ça fait toute la différence !
 
-![thumbnail](https://scontent-mrs2-1.cdninstagram.com/v/t51.82787-15/670481400_17858107179632339_701361496883161162_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=lofH1QgstSwQ7kNvwHyK94x&_nc_oc=AdovPXwCFCXsF3IqDrwNsG2gw-MIh4Lg4GJPAk_4tByitUvxBaChtT23FmHqgipbQrU&_nc_zt=23&_nc_ht=scontent-mrs2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=8kRJXBz95t02PLurqzjIZg&_nc_tpa=Q5bMBQH8fCMz-tymlCWwbyUOx3VmEC2lEn3Q7VdBVDBJnwg3-doBAggcKiT3WPnO6mf4a3nDFCIL-1cFSg&oh=00_Af0e85ZWdLu8u2iwy-O7uN_T5OjMCyUkZFIFA6444mJsSQ&oe=69EEB5AE)
+![thumbnail](https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/683352626_17859471912632339_17953909886887115_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Yh2ZuL1jI3UQ7kNvwG4AlRH&_nc_oc=AdpZFVBTkm42mdHmQRgx-Or8QLadMPIXzQYplYqJSoiQQNRPWUlOs8uVSezQ8HsAGZA&_nc_zt=23&_nc_ht=scontent-cdg6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=LtxRBNdugPF7faiTQs92cA&_nc_tpa=Q5bMBQEKESwFI8taJcmZZCAShR27vRs0JfM3RE9wQBbp12nGTXpJWGNpOjrnEtae77pBszTS0xe-B7JeLw&oh=00_Af4PzjcERjrCmEpcNSCGLdSt_lD0bPt4j2HTIgefnIeHzw&oe=69FFC2F7)
 
 
 

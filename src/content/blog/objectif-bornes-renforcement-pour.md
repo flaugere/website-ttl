@@ -1,0 +1,40 @@
+---
+id: 17848582038696647
+title: "🚀 Objectif 💯 bornes : Renforcement pour le trail. Épisode 3 " 
+description: "🚀 Objectif 💯 bornes : Renforcement pour le trail. Épisode 3 En trail et encore..."
+excerpt: "🚀 Objectif 💯 bornes : Renforcement pour le trail. Épisode 3 En trail et encore..." 
+date: 2026-04-29
+image: https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/682053968_17859758019632339_7902379558070740621_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=6znTBK4RF2gQ7kNvwE5FxHf&_nc_oc=AdpejTYg92loj79FeyT0efB9B6aEYpINO52it8-UGgSCrR8BuHui1Bocz99R8I4Wiec&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=LtxRBNdugPF7faiTQs92cA&_nc_tpa=Q5bMBQHQXRXtDIYVGcbUuDrneffJnu8CUgWA1EFP4Xum1SdeWvH60f_S9cODtXMlQcpUz1Njw6d-UJ_CpQ&oh=00_Af6iteyqKL6-MJkwPdaEYIGdLfEwUB42iPOcscH7bWVNnQ&oe=69FFBA24
+tags: ["trail", "coachingtrail", "ultratrail", "trailrunning", "growth"]
+categories: ["trail", "coachingtrail", "ultratrail", "trailrunning", "growth"]
+---
+
+# 🚀 Objectif 💯 bornes : Renforcement pour le trail. Épisode 3 
+
+![thumbnail](https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/682053968_17859758019632339_7902379558070740621_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=6znTBK4RF2gQ7kNvwE5FxHf&_nc_oc=AdpejTYg92loj79FeyT0efB9B6aEYpINO52it8-UGgSCrR8BuHui1Bocz99R8I4Wiec&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=LtxRBNdugPF7faiTQs92cA&_nc_tpa=Q5bMBQHQXRXtDIYVGcbUuDrneffJnu8CUgWA1EFP4Xum1SdeWvH60f_S9cODtXMlQcpUz1Njw6d-UJ_CpQ&oh=00_Af6iteyqKL6-MJkwPdaEYIGdLfEwUB42iPOcscH7bWVNnQ&oe=69FFBA24)
+
+
+
+En trail et encore plus en allant vers l'ultra-trail, le renforcement musculaire devient un pilier de la performance et de la longévité.
+
+✅ Améliore l’économie de course (jusqu’à +20 %)
+✅ Protège des chocs en descente
+✅ Réduit le risque de blessure
+✅ Maintient la technique malgré la fatigue
+
+Soyons pragmatique :
+👉 2 à 3 séances de 20–30 min par semaine suffisent.
+👉 Priorité en intersaison, rappel en période compétitive.
+👉 Stopper la force 10–14 jours avant l’objectif.
+Entraîner tous les groupes musculaires puis cibler les plus spécifiques.
+La clé ? La régularité, pas l’excès. 💪🏔️
+
+⚠️ C'est une discipline à part entière : on apprend à travailler, on planifie intelligement les séances puis on ajoute de la progressivité. Il est totalement pertinent de se faire accompagner à minima les premiers temps. Nous sommes là pour répondre à vos questions ou aller plus loin (coaching - check-up) 😘
+
+Et en plus, la musculation / renfo, c'est super pour ta santé 🥰
+
+Allez, partage nous ta séance fétiche 😎
+
+#trail #coachingtrail #ultratrail #trailrunning #growth
+
+Lien vers le post Instagram : [Instagram](https://www.instagram.com/reel/DXtAFJzjbmS/)

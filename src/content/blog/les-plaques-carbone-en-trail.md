@@ -4,14 +4,14 @@ title: "🚀 Les plaques carbone en Trail : Mythe marketing ou réel intérêt ?
 description: "🚀 Les plaques carbone en Trail : Mythe marketing ou réel intérêt ? 🤔 ✔️..."
 excerpt: "🚀 Les plaques carbone en Trail : Mythe marketing ou réel intérêt ? 🤔 ✔️..." 
 date: 2026-03-27
-image: https://scontent-mrs2-1.cdninstagram.com/v/t51.82787-15/657643813_17855934996632339_7279935951692384456_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=eXsoVNh1ur0Q7kNvwHAQCaQ&_nc_oc=AdpcruPOvABa6h_sabmMoSsnb1ul3XT7chH2ZTORxiGa-vTWSdvPiRPpqSmgarlJwvY&_nc_zt=23&_nc_ht=scontent-mrs2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=8kRJXBz95t02PLurqzjIZg&_nc_tpa=Q5bMBQGLh90pDSBPUkmULpkQEdXH7tY73zsiFwYOywSUSXy7Eqy9qG0FuERVdcXuuKxoKdEfXy8vCj9J-w&oh=00_Af3l61uSQLIdfwGijyiu0MWuPmmIqNRt9MCylx30yFOLdw&oe=69EEB135
-tags: ["trail", "trailrunning", "ultratrail", "running", "coachingtrail"]
-categories: ["trail", "trailrunning", "ultratrail", "running", "coachingtrail"]
+image: https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/657643813_17855934996632339_7279935951692384456_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=nFLVwZeT48kQ7kNvwHrBWw9&_nc_oc=AdqzMytfcI-sS6liNgON-ceYjVLLU6RwMH540CwJGP4nynL2XUOH8ycXRHQGrkiv7FU&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=LtxRBNdugPF7faiTQs92cA&_nc_tpa=Q5bMBQF8Cf-vbHp7C1wlx9I-HAgjf6MunJpzJv7RpugZeQRWBbzHN1jpqACH3XmxiToFyYZWTZwtxwtXow&oh=00_Af7pOVbx45A-onQlgshnzchhrGzBBoSw_E8WeVH1_t-iyQ&oe=69FF9C75
+tags: ["trail", "trailrunning", "ultratrail", "conseiltrail", "coachingtrail"]
+categories: ["trail", "trailrunning", "ultratrail", "conseiltrail", "coachingtrail"]
 ---
 
 # 🚀 Les plaques carbone en Trail : Mythe marketing ou réel intérêt ? 🤔
 
-![thumbnail](https://scontent-mrs2-1.cdninstagram.com/v/t51.82787-15/657643813_17855934996632339_7279935951692384456_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=eXsoVNh1ur0Q7kNvwHAQCaQ&_nc_oc=AdpcruPOvABa6h_sabmMoSsnb1ul3XT7chH2ZTORxiGa-vTWSdvPiRPpqSmgarlJwvY&_nc_zt=23&_nc_ht=scontent-mrs2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=8kRJXBz95t02PLurqzjIZg&_nc_tpa=Q5bMBQGLh90pDSBPUkmULpkQEdXH7tY73zsiFwYOywSUSXy7Eqy9qG0FuERVdcXuuKxoKdEfXy8vCj9J-w&oh=00_Af3l61uSQLIdfwGijyiu0MWuPmmIqNRt9MCylx30yFOLdw&oe=69EEB135)
+![thumbnail](https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/657643813_17855934996632339_7279935951692384456_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=nFLVwZeT48kQ7kNvwHrBWw9&_nc_oc=AdqzMytfcI-sS6liNgON-ceYjVLLU6RwMH540CwJGP4nynL2XUOH8ycXRHQGrkiv7FU&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=LtxRBNdugPF7faiTQs92cA&_nc_tpa=Q5bMBQF8Cf-vbHp7C1wlx9I-HAgjf6MunJpzJv7RpugZeQRWBbzHN1jpqACH3XmxiToFyYZWTZwtxwtXow&oh=00_Af7pOVbx45A-onQlgshnzchhrGzBBoSw_E8WeVH1_t-iyQ&oe=69FF9C75)
 
 
 
@@ -32,6 +32,6 @@ Mais en Trail entre altération de la proprioception liée à la perte de feelin
 
 Les supershoes en Trail, mythe marketing ou réel intérêt pour toi ? Dis-nous en commentaire 😁
 
-#trail #trailrunning #ultratrail #running #coachingtrail
+#trail #trailrunning #ultratrail #conseiltrail #coachingtrail
 
 Lien vers le post Instagram : [Instagram](https://www.instagram.com/reel/DWZnzFBDZrw/)

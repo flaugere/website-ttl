@@ -1,17 +1,17 @@
 ---
 id: 17975386358977574
-title: "En tant qu'experts, on t'aide à choisir ton matos 🤓💥" 
-description: "En tant qu'experts, on t'aide à choisir ton matos 🤓💥 🙋‍♂️ Nos pieds sont certainement..."
-excerpt: "En tant qu'experts, on t'aide à choisir ton matos 🤓💥 🙋‍♂️ Nos pieds sont certainement..." 
+title: "''Bien choisir ses chaussures en Trail c'est aussi important que de boire ou de manger.''" 
+description: "''Bien choisir ses chaussures en Trail c'est aussi important que de boire ou de manger.''..."
+excerpt: "''Bien choisir ses chaussures en Trail c'est aussi important que de boire ou de manger.''..." 
 date: 2026-01-23
-image: https://scontent-mrs2-1.cdninstagram.com/v/t51.82787-15/670783055_17858107125632339_2837441238506627823_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Dq4mbapoteIQ7kNvwHqfCUw&_nc_oc=AdononOOfD64L8tEImPi0e4-dYaVkviB3kONYGR3fPZHkvCs9aomDnAIURm-ncvrC8g&_nc_zt=23&_nc_ht=scontent-mrs2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=8kRJXBz95t02PLurqzjIZg&_nc_tpa=Q5bMBQGokFxjXU6wyt6ryIHo-YpeFVsZrLcJMZB27vzdZp1Ac1Ntyvw3kng6EN7cvk1H2NurB52WZGtXew&oh=00_Af3GaQyTSlwRvw86hTDQg55cPGQmJIJsNj7XAESNi6_l-w&oe=69EED313
+image: https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/684166003_17859472302632339_7043581145071068389_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sgkyHIexq-UQ7kNvwFpJ8PX&_nc_oc=AdqlKHGQJF1VXvhL3A2Iz93OsKs15_dPOF_QqnvxQshAQrvkqMwDy27Q2SztvYHlZiw&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=LtxRBNdugPF7faiTQs92cA&_nc_tpa=Q5bMBQFhtBz_HYvAr3IrNi6x0Q0kTVft5FLZF2EM5XYpPLgL3IcClnfRLWVtY_pr1jR_1B5xmTS0VtZINg&oh=00_Af6E9RNk7GoOdAvbBkcGf6DnlWNvejQNYvqXJQh7EJ6APA&oe=69FF93A1
 tags: ["montaigoual", "trailrunning", "conseiltrail", "coachingtrail", "snowtime"]
 categories: ["montaigoual", "trailrunning", "conseiltrail", "coachingtrail", "snowtime"]
 ---
 
-# En tant qu'experts, on t'aide à choisir ton matos 🤓💥
+# ''Bien choisir ses chaussures en Trail c'est aussi important que de boire ou de manger.''
 
-![thumbnail](https://scontent-mrs2-1.cdninstagram.com/v/t51.82787-15/670783055_17858107125632339_2837441238506627823_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Dq4mbapoteIQ7kNvwHqfCUw&_nc_oc=AdononOOfD64L8tEImPi0e4-dYaVkviB3kONYGR3fPZHkvCs9aomDnAIURm-ncvrC8g&_nc_zt=23&_nc_ht=scontent-mrs2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=8kRJXBz95t02PLurqzjIZg&_nc_tpa=Q5bMBQGokFxjXU6wyt6ryIHo-YpeFVsZrLcJMZB27vzdZp1Ac1Ntyvw3kng6EN7cvk1H2NurB52WZGtXew&oh=00_Af3GaQyTSlwRvw86hTDQg55cPGQmJIJsNj7XAESNi6_l-w&oe=69EED313)
+![thumbnail](https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/684166003_17859472302632339_7043581145071068389_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sgkyHIexq-UQ7kNvwFpJ8PX&_nc_oc=AdqlKHGQJF1VXvhL3A2Iz93OsKs15_dPOF_QqnvxQshAQrvkqMwDy27Q2SztvYHlZiw&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=LtxRBNdugPF7faiTQs92cA&_nc_tpa=Q5bMBQFhtBz_HYvAr3IrNi6x0Q0kTVft5FLZF2EM5XYpPLgL3IcClnfRLWVtY_pr1jR_1B5xmTS0VtZINg&oh=00_Af6E9RNk7GoOdAvbBkcGf6DnlWNvejQNYvqXJQh7EJ6APA&oe=69FF93A1)
 
 
 

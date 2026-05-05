@@ -4,14 +4,14 @@ title: "Marre de finir tes courses à l'agonie ? 🛑🏃‍♂️"
 description: "Marre de finir tes courses à l'agonie ? 🛑🏃‍♂️ Si tu prépares un trail long..."
 excerpt: "Marre de finir tes courses à l'agonie ? 🛑🏃‍♂️ Si tu prépares un trail long..." 
 date: 2026-04-11
-image: https://scontent-mrs2-2.cdninstagram.com/v/t51.82787-15/669877103_17857650420632339_2009566150884731673_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Q3crWRgV8JsQ7kNvwEzwEbk&_nc_oc=Ado9zCxfPSTG9nr7t0gG-tNNSP29HM-3D9_nIqTWhJLN9S6wub9eM_vTtxJHI1763as&_nc_zt=23&_nc_ht=scontent-mrs2-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=8kRJXBz95t02PLurqzjIZg&_nc_tpa=Q5bMBQGHq_hgddVoUiNU3O9z1Axn1XHjezbNIWYM7UW7fyGYPyH-9Bk5JsJpguQmAeo_TlAX_zIrGJ2E0Q&oh=00_Af1rA_6SiCMt6A9NHzwhWMiZRP9bixibT4X9FqHW4rVXxg&oe=69EEC47C
+image: https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/669877103_17857650420632339_2009566150884731673_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=LHjne2qt10sQ7kNvwGTaiyC&_nc_oc=AdqOdvkKNh740ROv7wIFJtAh0yTXuTdITQh1T7jgatsJn13-uQL6BoBvCQcXY-E6zkA&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=LtxRBNdugPF7faiTQs92cA&_nc_tpa=Q5bMBQE1jniLvprePTu_utW2APpuP4Nn4-jDI64T07UT80qWJww1InQppcqMehIaLABkJObUuDLbGRlX1Q&oh=00_Af4LPsqpiI8fETMzJqsI9pZUINiPds6390IPNQ0YiDGLGQ&oe=69FFAFBC
 tags: ["trail", "ultratrail", "methodecyrano", "coachingtrail", "trailrunnerlife"]
 categories: ["trail", "ultratrail", "methodecyrano", "coachingtrail", "trailrunnerlife"]
 ---
 
 # Marre de finir tes courses à l'agonie ? 🛑🏃‍♂️
 
-![thumbnail](https://scontent-mrs2-2.cdninstagram.com/v/t51.82787-15/669877103_17857650420632339_2009566150884731673_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Q3crWRgV8JsQ7kNvwEzwEbk&_nc_oc=Ado9zCxfPSTG9nr7t0gG-tNNSP29HM-3D9_nIqTWhJLN9S6wub9eM_vTtxJHI1763as&_nc_zt=23&_nc_ht=scontent-mrs2-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=8kRJXBz95t02PLurqzjIZg&_nc_tpa=Q5bMBQGHq_hgddVoUiNU3O9z1Axn1XHjezbNIWYM7UW7fyGYPyH-9Bk5JsJpguQmAeo_TlAX_zIrGJ2E0Q&oh=00_Af1rA_6SiCMt6A9NHzwhWMiZRP9bixibT4X9FqHW4rVXxg&oe=69EEC47C)
+![thumbnail](https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/669877103_17857650420632339_2009566150884731673_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=LHjne2qt10sQ7kNvwGTaiyC&_nc_oc=AdqOdvkKNh740ROv7wIFJtAh0yTXuTdITQh1T7jgatsJn13-uQL6BoBvCQcXY-E6zkA&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=LtxRBNdugPF7faiTQs92cA&_nc_tpa=Q5bMBQE1jniLvprePTu_utW2APpuP4Nn4-jDI64T07UT80qWJww1InQppcqMehIaLABkJObUuDLbGRlX1Q&oh=00_Af4LPsqpiI8fETMzJqsI9pZUINiPds6390IPNQ0YiDGLGQ&oe=69FFAFBC)
 
 
 

@@ -4,14 +4,14 @@ title: "📢 RENFORCEMENT 👉 Quand et quoi faire ?"
 description: "📢 RENFORCEMENT 👉 Quand et quoi faire ? Tu veux te forger un corps d'acier,..."
 excerpt: "📢 RENFORCEMENT 👉 Quand et quoi faire ? Tu veux te forger un corps d'acier,..." 
 date: 2025-12-10
-image: https://scontent-mrs2-2.cdninstagram.com/v/t51.82787-15/589728533_17844374166632339_1381234435828558643_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8DSksOvmpz8Q7kNvwFIuwAo&_nc_oc=AdqVJNSfc37RGcG4J5XNI_sJOR7EfdY8q5LQ1zz4Uo864Fp7BAkeaUF3IC8a76viAYA&_nc_zt=23&_nc_ht=scontent-mrs2-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=8kRJXBz95t02PLurqzjIZg&_nc_tpa=Q5bMBQEyQSjlAtZC2vKF87zAHvNhGXZ4yfGpklmUz85UoE4c2vD4msK3JcAkfk4ML5uSiC9TUODGfvfo5Q&oh=00_Af3RmhJDZup7So6OsHSCu2tvjo59mmMrhC0WGZVOKy2T_g&oe=69EED672
+image: https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/589728533_17844374166632339_1381234435828558643_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=7NXpojazDJIQ7kNvwEtiWHJ&_nc_oc=Adppa_1ubPqQRwnZ8ksIIBDHopqw31NVQWBAVHOMtTmLF7JwdiGYQ2Z-Jl5FcIV0bIs&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=LtxRBNdugPF7faiTQs92cA&_nc_tpa=Q5bMBQHlpOMqL0kymw3FwI1GfcxGzC_WGmLMDGyIEHqBA4e5wXFGhqnbkfMLInPOtNtvwqLTV6bgsJSwRA&oh=00_Af4a5dDqKIB-xGYAtG_mPishADkkbWJhHp4ZrW3W0IkzZA&oe=69FFC1B2
 tags: ["trail", "trailrunning", "renforcementmusculaire", "genou", "nopainnogain", "coaching", "montpellier"]
 categories: ["trail", "trailrunning", "renforcementmusculaire", "genou", "nopainnogain", "coaching", "montpellier"]
 ---
 
 # 📢 RENFORCEMENT 👉 Quand et quoi faire ?
 
-![thumbnail](https://scontent-mrs2-2.cdninstagram.com/v/t51.82787-15/589728533_17844374166632339_1381234435828558643_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8DSksOvmpz8Q7kNvwFIuwAo&_nc_oc=AdqVJNSfc37RGcG4J5XNI_sJOR7EfdY8q5LQ1zz4Uo864Fp7BAkeaUF3IC8a76viAYA&_nc_zt=23&_nc_ht=scontent-mrs2-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=8kRJXBz95t02PLurqzjIZg&_nc_tpa=Q5bMBQEyQSjlAtZC2vKF87zAHvNhGXZ4yfGpklmUz85UoE4c2vD4msK3JcAkfk4ML5uSiC9TUODGfvfo5Q&oh=00_Af3RmhJDZup7So6OsHSCu2tvjo59mmMrhC0WGZVOKy2T_g&oe=69EED672)
+![thumbnail](https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/589728533_17844374166632339_1381234435828558643_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=7NXpojazDJIQ7kNvwEtiWHJ&_nc_oc=Adppa_1ubPqQRwnZ8ksIIBDHopqw31NVQWBAVHOMtTmLF7JwdiGYQ2Z-Jl5FcIV0bIs&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=LtxRBNdugPF7faiTQs92cA&_nc_tpa=Q5bMBQHlpOMqL0kymw3FwI1GfcxGzC_WGmLMDGyIEHqBA4e5wXFGhqnbkfMLInPOtNtvwqLTV6bgsJSwRA&oh=00_Af4a5dDqKIB-xGYAtG_mPishADkkbWJhHp4ZrW3W0IkzZA&oe=69FFC1B2)
 
 
 
