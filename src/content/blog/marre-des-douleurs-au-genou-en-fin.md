@@ -4,14 +4,14 @@ title: "Marre des douleurs au genou en fin de Trail ? 😤❌🦵"
 description: "Marre des douleurs au genou en fin de Trail ? 😤❌🦵 🤔 Il y a..."
 excerpt: "Marre des douleurs au genou en fin de Trail ? 😤❌🦵 🤔 Il y a..." 
 date: 2026-04-07
-image: https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/660816017_17857191129632339_3964743803769112288_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_VdFn_qexBwQ7kNvwEuIDpB&_nc_oc=Adp3FpZx5wL9rZJanmjneqMYbYusBe8f6cZy41w_qqB80bzI8zegaAwk_50HW-jHwBY&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=LtxRBNdugPF7faiTQs92cA&_nc_tpa=Q5bMBQEDoa-hawxocoJk9UKokj0g8U8VRTY-eHbxOhZ-F552HdgRIPhGoiUHXnZzx0TfWSqiT6nVmX7DaA&oh=00_Af5c2oei_6o9fAtEPHoWMOb0IPAOwtJxm2qbQtscqz9dlg&oe=69FFA753
+image: https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/660816017_17857191129632339_3964743803769112288_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=lBT9cfcUfO0Q7kNvwE8k96A&_nc_oc=Adrt5Gj97P6pAI1myBSYyUlKIBigO-w-D8SjT1jguVqF_oFYwwhFb17sw2ZPbkQW_LE&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ojlLW_8WbE-Ox_O0u7dXKg&_nc_tpa=Q5bMBQF34_zt6E_D3LnRtSeFGwYADT1WhH3TYjVgc9Qwk3dbCiqkZkD75zJJw_y-_0GeHMDmVPM_3Yt-YA&oh=00_Af4DfRnzq-9-OUW-nQ190h9MEoTia1MmfCxKr0oKhHCdnw&oe=6A0E27D3
 tags: ["trail", "ultratrail", "coachingtrail", "trailrunnerlife", "growth"]
 categories: ["trail", "ultratrail", "coachingtrail", "trailrunnerlife", "growth"]
 ---
 
 # Marre des douleurs au genou en fin de Trail ? 😤❌🦵
 
-![thumbnail](https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/660816017_17857191129632339_3964743803769112288_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_VdFn_qexBwQ7kNvwEuIDpB&_nc_oc=Adp3FpZx5wL9rZJanmjneqMYbYusBe8f6cZy41w_qqB80bzI8zegaAwk_50HW-jHwBY&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=LtxRBNdugPF7faiTQs92cA&_nc_tpa=Q5bMBQEDoa-hawxocoJk9UKokj0g8U8VRTY-eHbxOhZ-F552HdgRIPhGoiUHXnZzx0TfWSqiT6nVmX7DaA&oh=00_Af5c2oei_6o9fAtEPHoWMOb0IPAOwtJxm2qbQtscqz9dlg&oe=69FFA753)
+![thumbnail](https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/660816017_17857191129632339_3964743803769112288_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=lBT9cfcUfO0Q7kNvwE8k96A&_nc_oc=Adrt5Gj97P6pAI1myBSYyUlKIBigO-w-D8SjT1jguVqF_oFYwwhFb17sw2ZPbkQW_LE&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ojlLW_8WbE-Ox_O0u7dXKg&_nc_tpa=Q5bMBQF34_zt6E_D3LnRtSeFGwYADT1WhH3TYjVgc9Qwk3dbCiqkZkD75zJJw_y-_0GeHMDmVPM_3Yt-YA&oh=00_Af4DfRnzq-9-OUW-nQ190h9MEoTia1MmfCxKr0oKhHCdnw&oe=6A0E27D3)
 
 
 

@@ -9,6 +9,7 @@ import c3 from "../../assets/pics/card-pic3.png";
 import c4 from "../../assets/pics/card-pic4.png";
 import c5 from "../../assets/pics/card-pic5.png";
 import c6 from "../../assets/pics/card-pic6.png";
+import ShortForm from "../ui/ShortForm.astro";
 
 const cards = [
   {
@@ -30,7 +31,7 @@ const cards = [
   {
     index: 3,
     titleTop: "🍴 Conseils alimentation",
-    titleBottom: "Les bonnes pratiques au quotidien, avant, pendant et après l'effort",
+    titleBottom: "Les bonnes pratiques au quotidien, avant, pendant et après l'effort. L'alimentation est un levier de performance et de plaisir, on t'aide à l'exploiter !",
     img: c3,
     alt: "alimentation",
     link: "/services",
@@ -65,10 +66,13 @@ const description =
   "Un questionnaire à remplir et on planifie ensemble une visio avec nos coachs/conseillers";
 ---
 
-<Section id="services">
+<Section id="services" class="bg-orange2">
   <div class="mt-[70px] mb-5">
     <SectionTitle sectionTitle="Ton check-up Ultra Trail" description={description} />
-    <div class="gap-10 mb-20 sm:flex-row">
+    <div class="flex-grow my-10 lg:my-0 lg:ml-12">
+      <ShortForm />
+    </div>
+    <div class="gap-10 mb-20 mt-10 sm:flex-row">
       <ul class="list-none list-inside text-left text-xl sm:text-xl">
         <li class="ml-10">💰 Tarif : 80€</li>
         <li class="ml-10">📓 Un questionnaire à remplir pour faire l'état des lieux de ta pratique</li>
@@ -77,6 +81,10 @@ const description =
         <li class="ml-10">✉️ Un accompagnement par mail pendant 1 mois après la visio pour répondre à tes questions.</li>
       </ul>
     </div>
+    <div class="gap-10 mb-20 sm:flex-row text-center">
+      <a class="px-8 py-5 bg-orange hover:bg-white rounded-2xl text-center text-white hover:text-orange hover:text-orange border text-xl font-normal leading-7" href="#form">S'inscrire</a>
+    </div>
+    
     <div class="grid lg:grid-cols-3 lg:grid-rows-2 gap-10">
       {
         cards.map((card) => (
