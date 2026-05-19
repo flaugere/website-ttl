@@ -4,14 +4,14 @@ title: "🚀 Les plaques carbone en Trail : Mythe marketing ou réel intérêt ?
 description: "🚀 Les plaques carbone en Trail : Mythe marketing ou réel intérêt ? 🤔 ✔️..."
 excerpt: "🚀 Les plaques carbone en Trail : Mythe marketing ou réel intérêt ? 🤔 ✔️..." 
 date: 2026-03-27
-image: https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/657643813_17855934996632339_7279935951692384456_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UVvETS6_H20Q7kNvwG3zp4l&_nc_oc=AdpwUNzvmkP8VzFDWTJa_SSGTGcbK9I08aVsRHFSNXfjIyta5_uuu0SXaOv9UwhpROw&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ojlLW_8WbE-Ox_O0u7dXKg&_nc_tpa=Q5bMBQGCGrXbXhQId2iTurrF7ntYEJ43TqeOz1UYKxqhFZUs3CgL94UXh71coSLuJabaIhO0BOQWFvQNjw&oh=00_Af7zi5XZWcXZOPf11nCCsZRqSvsiRS4g1p0-eXjY-V4Wsg&oe=6A0E1CF5
+image: https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/657643813_17855934996632339_7279935951692384456_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UVvETS6_H20Q7kNvwG3zp4l&_nc_oc=AdpwUNzvmkP8VzFDWTJa_SSGTGcbK9I08aVsRHFSNXfjIyta5_uuu0SXaOv9UwhpROw&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=xYsU-hBq1zTf9_fINZBo7A&_nc_tpa=Q5bMBQGutMUywnDXik6ZAM4udmby7qUbT-uhBahQH17iVnV6Gqpzuv-z-UemCAaSZf6xMdPRv7yR50mqAw&oh=00_Af4NVw_eGj1UpedUBmg7rAsYRk3N46HBmfxYJ75_8Ze9xw&oe=6A0F6E75
 tags: ["trail", "trailrunning", "ultratrail", "conseiltrail", "coachingtrail"]
 categories: ["trail", "trailrunning", "ultratrail", "conseiltrail", "coachingtrail"]
 ---
 
 # 🚀 Les plaques carbone en Trail : Mythe marketing ou réel intérêt ? 🤔
 
-![thumbnail](https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/657643813_17855934996632339_7279935951692384456_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UVvETS6_H20Q7kNvwG3zp4l&_nc_oc=AdpwUNzvmkP8VzFDWTJa_SSGTGcbK9I08aVsRHFSNXfjIyta5_uuu0SXaOv9UwhpROw&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ojlLW_8WbE-Ox_O0u7dXKg&_nc_tpa=Q5bMBQGCGrXbXhQId2iTurrF7ntYEJ43TqeOz1UYKxqhFZUs3CgL94UXh71coSLuJabaIhO0BOQWFvQNjw&oh=00_Af7zi5XZWcXZOPf11nCCsZRqSvsiRS4g1p0-eXjY-V4Wsg&oe=6A0E1CF5)
+![thumbnail](https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/657643813_17855934996632339_7279935951692384456_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UVvETS6_H20Q7kNvwG3zp4l&_nc_oc=AdpwUNzvmkP8VzFDWTJa_SSGTGcbK9I08aVsRHFSNXfjIyta5_uuu0SXaOv9UwhpROw&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=xYsU-hBq1zTf9_fINZBo7A&_nc_tpa=Q5bMBQGutMUywnDXik6ZAM4udmby7qUbT-uhBahQH17iVnV6Gqpzuv-z-UemCAaSZf6xMdPRv7yR50mqAw&oh=00_Af4NVw_eGj1UpedUBmg7rAsYRk3N46HBmfxYJ75_8Ze9xw&oe=6A0F6E75)
 
 
 

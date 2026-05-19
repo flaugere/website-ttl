@@ -4,8 +4,12 @@ const { isUnderline } = Astro.props;
 
 {
   isUnderline ? (
-    <div class="rounded-[15px] border border-dark shadow-[0px_5px_0px_#191a23]">
-      <slot />
+    <div class="rounded-[15px] max-w-md rounded-3xl p-px bg-gradient-to-b from-orange-400 to-orange-800">
+      <div
+      class=`w-full sm:h-full lg:gap-[60px] p-8 sm:p-[50px] rounded-[calc(1rem-1px)] bg-orange2 dark:bg-gray-900`
+    >
+          <slot />
+      </div>  
     </div>
   ) : (
     <div class="rounded-[15px]">

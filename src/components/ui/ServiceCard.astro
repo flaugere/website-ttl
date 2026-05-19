@@ -6,22 +6,21 @@ import gob from "../../assets/icon6.svg";
 import wob from "../../assets/icon7.svg";
 
 
-const { index, titleTop, titleBottom, img, alt, link } = Astro.props;
+const { index, titleTop, titleBottom, img, alt, link, emoji } = Astro.props;
 ---
 
 <Card isUnderline={true}>
-  <div
-    class=`h-[200px] w-full sm:h-full lg:gap-[60px] p-8 sm:p-[50px]`
-  >
-    <h3 class=`flex flex-col col-span-2 lg:col-span-1`>
-      <span class=`w-[fit-content] text-lg uppercase font-medium`
-        >{titleTop}</span
-      >
-      <span class=`mt-2 w-[fit-content]`
-        >{titleBottom}</span
-      >
-    </h3>
-  </div>
+      <h3 class=`flex flex-col col-span-2 lg:col-span-1`>
+        <div class=`uppercase text-3xl text-center`
+          >{emoji}</div
+        >
+        <div class=`text-lg uppercase text-center`
+          >{titleTop}</div
+        >
+        <span class=`mt-2 w-[fit-content]`
+          >{titleBottom}</span
+        >
+      </h3>
 </Card>
 
 <style>

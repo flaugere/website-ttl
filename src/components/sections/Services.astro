@@ -14,50 +14,83 @@ import ShortForm from "../ui/ShortForm.astro";
 const cards = [
   {
     index: 1,
-    titleTop: "👟 Chaussures",
+    titleTop: "Chaussures",
     titleBottom: "Minimaliste, maximaliste, drop 0, ultra légère ou protectrice... On te guide !",
     img: c1,
+    emoji: "👟",
     alt: "chaussure",
     link: "/services",
   },
   {
     index: 2,
-    titleTop: "🏃🏻‍♀️ Accessoires",
+    titleTop: "Accessoires",
     titleBottom: "Lumières, batons, ... Ton projet évolue, ton matos aussi. Peut-être un petit coup de main pour choisir les bons outils ?",
     img: c2,
+    emoji: "🏃🏻‍♀️",
     alt: "accessoires trail",
     link: "/services",
   },
   {
     index: 3,
-    titleTop: "🍴 Conseils alimentation",
+    titleTop: "Conseils alimentation",
     titleBottom: "Les bonnes pratiques au quotidien, avant, pendant et après l'effort. L'alimentation est un levier de performance et de plaisir, on t'aide à l'exploiter !",
     img: c3,
+    emoji: "🍴",
     alt: "alimentation",
     link: "/services",
   },
   {
     index: 1,
-    titleTop: "𖡎 Mental",
+    titleTop: "Mental",
     titleBottom: "Préparation, adaptation, écoute. Le trail se court aussi avec la tête.",
     img: c4,
+    emoji: "𖡎",
     alt: "Préparation mentale",
     link: "/services",
   },
   {
     index: 2,
-    titleTop: "📖 Stratégie, saisonnalité",
-    titleBottom: "Planifier avec raison. Courir avec passion. Tu peux avoir besoin d'un regard externe pour avancer avec discernement.",
+    titleTop: "Stratégie d'entraînement",
+    titleBottom: "Gestion de la charge d'entraînement, planification de la saison, choix des séances... On t'aide à construire une stratégie d'entraînement adaptée à ton projet et à ta vie !",
     img: c5,
+    emoji: "📖",
     alt: "stratégie",
     link: "/services",
   },
   {
     index: 3,
-    titleTop: "💻 Technologie",
+    titleTop: "Technologie",
     titleBottom: "Conseils pour être serein.e avec montres, apps, IA. Aujourd'hui, il devient indispensable d'optimiser et la technologie peut te l'offrir.",
     img: c6,
+    emoji: "💻",
     alt: "technologie",
+    link: "/services",
+  },
+  {
+    index: 1,
+    titleTop: "Renforcement",
+    titleBottom: "Démarre ou peaufine ta préparation physique avec des exercices de renforcement musculaire adaptés à ta pratique et à tes objectifs.",
+    img: c6,
+    emoji: "💪",
+    alt: "renforcement",
+    link: "/services",
+  },
+  {
+    index: 5,
+    titleTop: "Santé",
+    titleBottom: "Prise en charge de la santé globale du coureur : prévention des blessures, gestion de la fatigue, conseils pour une récupération optimale. Un corps sain est la base d'une performance durable.",
+    img: c6,
+    emoji: "❤️",
+    alt: "santé",
+    link: "/services",
+  },
+  {
+    index: 6,
+    titleTop: "Organisation, saisonnalité",
+    titleBottom: "Difficile parfois d'avoir un regard externe. On t'aide à organiser ta saison, à planifier tes objectifs et à faire les bons choix pour progresser sereinement.",
+    img: c5,
+    emoji: "📖",
+    alt: "stratégie",
     link: "/services",
   },
 ];
@@ -76,15 +109,17 @@ const description =
       <ul class="list-none list-inside text-left text-xl sm:text-xl">
         <li class="ml-10">💰 Tarif : 80€</li>
         <li class="ml-10">📓 Un questionnaire à remplir pour faire l'état des lieux de ta pratique</li>
-        <li class="ml-10">💻 30 minutes d'échange en visio</li>
-        <li class="ml-10">📄 Compte rendu au format PDF avec les conseils et recommandations personnalisés.</li>
-        <li class="ml-10">✉️ Un accompagnement par mail pendant 1 mois après la visio pour répondre à tes questions.</li>
+        <li class="ml-10">✅ 30 minutes d'échange en visio</li>
+        <li class="ml-10">✅ Compte rendu au format PDF avec les conseils et recommandations personnalisés.</li>
+        <li class="ml-10">✅ Un accompagnement par mail pendant 1 mois après la visio pour répondre à tes questions.</li>
       </ul>
     </div>
     <div class="gap-10 mb-20 sm:flex-row text-center">
       <a class="px-8 py-5 bg-orange hover:bg-white rounded-2xl text-center text-white hover:text-orange hover:text-orange border text-xl font-normal leading-7" href="#form">S'inscrire</a>
     </div>
-    
+    <div class="gap-10 mb-10 sm:flex-row text-center bg-[url('/src/assets/brosse.png')] bg-no-repeat bg-center min-h-[75px]">
+      <h3 class="mb-0 text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-emerald-500 to-90%">L'équation du Finisher</h3>
+    </div>
     <div class="grid lg:grid-cols-3 lg:grid-rows-2 gap-10">
       {
         cards.map((card) => (
@@ -95,6 +130,7 @@ const description =
             img={card.img}
             alt={card.alt}
             link={card.link}
+            emoji={card.emoji}
           />
         ))
       }

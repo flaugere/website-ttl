@@ -4,14 +4,14 @@ title: "''Bien choisir ses chaussures en Trail c'est aussi important que de boir
 description: "''Bien choisir ses chaussures en Trail c'est aussi important que de boire ou de manger.''..."
 excerpt: "''Bien choisir ses chaussures en Trail c'est aussi important que de boire ou de manger.''..." 
 date: 2026-01-23
-image: https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/684166003_17859472302632339_7043581145071068389_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=4WxQ2cjejysQ7kNvwEzUwmT&_nc_oc=AdpArs7PX4Hq9kEml2ZJzvXow2wb8awfxI1-EQ5FSP-pv1STHO-EOs_Tpb_RJQ6y9tE&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ojlLW_8WbE-Ox_O0u7dXKg&_nc_tpa=Q5bMBQFZ-PJ6ig7lBymP3ULowCTKd82gCVDzhrjLlFYGMrfT23AdXmU3c1NF6lpG4S3h1dtDV8UCGyQxSQ&oh=00_Af5juqzpgRn0GpMdMzMBFPV9MRWWIGmA8tSp81e4uk9c2A&oe=6A0E1421
+image: https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/684166003_17859472302632339_7043581145071068389_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=dn_RifSkWbEQ7kNvwFJa3Ir&_nc_oc=AdoLVFY3jgRcetFQ5PQobYGFLp-zcaRdYC8b2Vr26IeCQiEHI2JBGsc-BHPF7HLnwBk&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=xYsU-hBq1zTf9_fINZBo7A&_nc_tpa=Q5bMBQG_eIJkEPH3IEUXUUdckIW5p6ehMymXmcp-_Fx88B8JttKcPJeP8syEMXce64kbUYlw73uEZHjusQ&oh=00_Af6blWaxjHFF8iVgUG7Fnkc_RYDOF199ZDEh0BQhDyr9LA&oe=6A0F65A1
 tags: ["montaigoual", "trailrunning", "conseiltrail", "coachingtrail", "snowtime"]
 categories: ["montaigoual", "trailrunning", "conseiltrail", "coachingtrail", "snowtime"]
 ---
 
 # ''Bien choisir ses chaussures en Trail c'est aussi important que de boire ou de manger.''
 
-![thumbnail](https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/684166003_17859472302632339_7043581145071068389_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=4WxQ2cjejysQ7kNvwEzUwmT&_nc_oc=AdpArs7PX4Hq9kEml2ZJzvXow2wb8awfxI1-EQ5FSP-pv1STHO-EOs_Tpb_RJQ6y9tE&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ojlLW_8WbE-Ox_O0u7dXKg&_nc_tpa=Q5bMBQFZ-PJ6ig7lBymP3ULowCTKd82gCVDzhrjLlFYGMrfT23AdXmU3c1NF6lpG4S3h1dtDV8UCGyQxSQ&oh=00_Af5juqzpgRn0GpMdMzMBFPV9MRWWIGmA8tSp81e4uk9c2A&oe=6A0E1421)
+![thumbnail](https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/684166003_17859472302632339_7043581145071068389_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=dn_RifSkWbEQ7kNvwFJa3Ir&_nc_oc=AdoLVFY3jgRcetFQ5PQobYGFLp-zcaRdYC8b2Vr26IeCQiEHI2JBGsc-BHPF7HLnwBk&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=xYsU-hBq1zTf9_fINZBo7A&_nc_tpa=Q5bMBQG_eIJkEPH3IEUXUUdckIW5p6ehMymXmcp-_Fx88B8JttKcPJeP8syEMXce64kbUYlw73uEZHjusQ&oh=00_Af6blWaxjHFF8iVgUG7Fnkc_RYDOF199ZDEh0BQhDyr9LA&oe=6A0F65A1)
 
 
 
